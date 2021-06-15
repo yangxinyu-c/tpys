@@ -1,0 +1,1 @@
+pngquanti --force raw-assets/f1/f195de5b-2370-4511-b299-b97e49d727b6.png --ext .png
